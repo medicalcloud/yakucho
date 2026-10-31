@@ -6,7 +6,7 @@ title: 目次
 
 吉益東洞『薬徴』の原文を、東大本の版面から書き起こして薬ごとの単位に分け、日本語訳と解説を付けたもの。全53の薬（当帰・芎藭は1単位）と序・跋を訳している。
 
-訳と解説は LLM によるもので、誤りがありうる。訳は別の資料と照合しておらず、校異は一部の単位にしか付いていない。詳しくは README を見てほしい。
+訳と解説は LLM によるもので、誤りがありうる。訳は別の注釈書や現代語訳と照合していない。詳しくは README を見てほしい。
 
 - 作り方・資料・字体の方針：[README（GitHub）](https://github.com/medicalcloud/yakucho#readme)、[字体と変換の方針](字体と変換の方針.md)
 - 全データ（Markdown＋YAML）：[GitHub medicalcloud/yakucho](https://github.com/medicalcloud/yakucho)
